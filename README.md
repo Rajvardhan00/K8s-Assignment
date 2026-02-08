@@ -1,4 +1,4 @@
-# Flask + MongoDB Deployment on Kubernetes using Minikube.
+# Flask + MongoDB Deployment on Kubernetes using Minikube
 
 This project demonstrates deploying a containerized Flask REST API with MongoDB using Docker and Kubernetes on a Minikube cluster.  
 The Flask API exposes a `/data` endpoint that supports POST (insert document) and GET (retrieve all documents) operations.
